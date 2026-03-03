@@ -33,16 +33,6 @@
 
 ---
 
-# 🖼️ Certificate Images
-
-## 🏆 Certificate 1
-
-
-## 🏆 Certificate 4
-![Certificate 4](Coursera NVIDIA_DEEP_LEARNING.pdf)
-
----
-
 # 🛠️ Technologies Used
 - Python  
 - Google Colab  
