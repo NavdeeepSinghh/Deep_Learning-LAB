@@ -36,11 +36,9 @@
 # 🖼️ Certificate Images
 
 ## 🏆 Certificate 1
-![Certificate 1](Test 1.1.jpeg)
-
+![Certificate 3](Test1.1.jpeg)
 ## 🏆 Certificate 2
-![Certificate 2](Test 1.2.jpeg)
-
+![Certificate 3](Test1.2.jpeg)
 ## 🏆 Certificate 3
 ![Certificate 3](Test2.1.jpeg)
 
