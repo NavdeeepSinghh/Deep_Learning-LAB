@@ -36,14 +36,10 @@
 # 🖼️ Certificate Images
 
 ## 🏆 Certificate 1
-![Certificate 3](Test1.1.jpeg)
-## 🏆 Certificate 2
-![Certificate 3](Test1.2.jpeg)
-## 🏆 Certificate 3
-![Certificate 3](Test2.1.jpeg)
+
 
 ## 🏆 Certificate 4
-![Certificate 4](Test2.2.jpeg)
+![Certificate 4](Coursera NVIDIA_DEEP_LEARNING.pdf)
 
 ---
 
